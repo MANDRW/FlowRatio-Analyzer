@@ -15,7 +15,8 @@ The project includes a complete pipeline: dataset preparation, model training, e
 
 ## Dataset
 
-*(In the future, this section will link to a public dataset on Kaggle.)*
+*This section will link to the public dataset on Kaggle once it is published.*
+[FDM Extrusion Calibration Dataset](https://www.kaggle.com/datasets/mmandrew/fdm-extrusion-calibration-dataset)
 
 ## Features
 
