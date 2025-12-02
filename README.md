@@ -1,10 +1,10 @@
-# FlowRate Analyzer – CNN-Based Classification of Extrusion Flow Ratio in FDM 3D Printing
+# FlowRatio Analyzer – CNN-Based Classification of Extrusion Flow Ratio in FDM 3D Printing
 
 A system for classifying flow-ratio calibration blocks in FDM 3D printing using convolutional neural networks.
 
 ## About
 
-FlowRate Analyzer is a machine-learning project developed for an engineering thesis.  
+FlowRatio Analyzer is a machine-learning project developed for an engineering thesis.  
 The system analyzes images of 3D-printed calibration blocks and classifies them into three categories:
 
 - **Under-extrude**  
