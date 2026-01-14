@@ -24,6 +24,17 @@ The project includes a complete pipeline: dataset preparation, model training, e
   - Custom CNN  
   - MobileNetV2 (transfer learning)  
 - **Cross-validation:** Stratified K-Fold for reliable model evaluation
+
+## Results
+
+- **Custom CNN**
+  - Average Accuracy: **79.92%**
+  - Best Accuracy: **85.21%** (Fold 2)
+
+- **MobileNetV2**
+  - Average Accuracy: **98.08%**
+  - Best Accuracy: **99.37%** (Fold 5)
+
   
 ## Technology Stack
 
