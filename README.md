@@ -14,6 +14,7 @@ The system analyzes images of 3D-printed calibration blocks and classifies them 
 The project includes a complete pipeline: dataset preparation, model training, evaluation, and comparison of architectures.
 
 ## Dataset
+All images in this dataset were captured by me during my own FDM calibration runs.
 
 [FDM Extrusion Calibration Dataset](https://www.kaggle.com/datasets/mmandrew/fdm-extrusion-calibration-dataset)
 
